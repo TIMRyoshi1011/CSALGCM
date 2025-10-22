@@ -20,7 +20,7 @@ Returns the value of f(n)
 */
 ll solve(int a,int b,int c,int n) {
     // compute and return answer here
-    long long F[n + 1];
+    long long F[MAX_N];
     F[0] = a % MOD;
     F[1] = b % MOD;
     F[2] = c % MOD;
