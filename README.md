@@ -1,2 +1,4 @@
-# CSALGCM-Hands-On-Exam-1
-Github repository for Hands-On Exam #1 in CSALGCM Course from CCS in DLSU from Term 1 AY 2025-2026
+# Easy Problems: can be solved in polynomial time
+- Divide-and-Conquer
+- Dynamic Programming
+- Greedy Algorithms
