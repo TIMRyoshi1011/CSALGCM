@@ -1,3 +1,5 @@
+// NOTE: THIS PROGRAM WAS NOT SUBMITTED IN HACKERRANK
+
 #include <bits/stdc++.h>
 
 #define MAX_N 300000
