@@ -3,3 +3,7 @@ GitHub repository for Hands-On Exam #2 via <a href = "https://www.hackerrank.com
 - These Programs are Made in Visual Studio Code
 - These Programs are Tested in the HackerRank Page of this Exam's Test Cases <br> <br>
 Note: Read each commit title and description for the exam's questions
+<p></p>
+Legend:
+- DP - Dynamic Programming
+- GA - Greedy Algorithms
